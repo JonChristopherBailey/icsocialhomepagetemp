@@ -1,0 +1,11 @@
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\bin\Debug\netcoreapp2.0\testsocial.deps.json
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\bin\Debug\netcoreapp2.0\testsocial.runtimeconfig.json
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\bin\Debug\netcoreapp2.0\testsocial.runtimeconfig.dev.json
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\bin\Debug\netcoreapp2.0\testsocial.dll
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\bin\Debug\netcoreapp2.0\testsocial.pdb
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\obj\Debug\netcoreapp2.0\testsocial.csprojAssemblyReference.cache
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\obj\Debug\netcoreapp2.0\testsocial.csproj.CoreCompileInputs.cache
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\obj\Debug\netcoreapp2.0\testsocial.AssemblyInfoInputs.cache
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\obj\Debug\netcoreapp2.0\testsocial.AssemblyInfo.cs
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\obj\Debug\netcoreapp2.0\testsocial.dll
+C:\Users\Jon Bailey\source\repos\testsocial\testsocial\obj\Debug\netcoreapp2.0\testsocial.pdb
